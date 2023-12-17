@@ -1,0 +1,4 @@
+package StudenManerger
+
+class SanPham {
+}
